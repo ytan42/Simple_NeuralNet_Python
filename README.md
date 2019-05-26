@@ -1,8 +1,7 @@
 # Simple_NeuralNet_Python
-2 hidden layers neural net for regression
+A simple fully connected neural network with 4 layers - 1 input, 2 hidden and 1 output for regression purpose.
 
-A very simple neural network coded in Python by using numpy and pandas only. The only other package used was scikitlearn for normalise
-the toy dataset. 
+Primarily coded in Python by using numpy and pandas. The only other package used was scikitlearn for the normalise function. 
 
 It's intended for self study only and not for commercial useage or production system.
 
